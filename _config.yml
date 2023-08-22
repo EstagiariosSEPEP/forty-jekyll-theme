@@ -1,7 +1,7 @@
 # site settings
 title: Urbanismo
 subtitle: Social
-email: youremailaddress@prefeitura.sp.gov.br
+email: spurbanismo@spurbanismo.sp.gov.br
 description: Lorem ipsum dolor sit amet Up<br /> consectetur adipisicing elit..
 baseurl: "/urbanismo-social" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -25,11 +25,11 @@ socials:
   GitHub: 
   GitLab:
   Google-Plus: 
-  Instagram:
-  LinkedIn: 
-  Twitter: https://twitter.com
-  Facebook:
-  Slack:
+  Instagram: https://www.instagram.com/smul_sp/
+  LinkedIn:  https://www.linkedin.com/company/smulsp
+  Twitter: https://twitter.com/smul_sp
+  Facebook: https://www.facebook.com/smulsp
+  Youtube: https://www.youtube.com/user/pmspsmdu
 
 # build settings
 markdown: kramdown
