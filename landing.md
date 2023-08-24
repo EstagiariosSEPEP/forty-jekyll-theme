@@ -40,7 +40,7 @@ nav-menu: true
 				</header>
 				<p>O <strong style="color:red;">Plano Diretor Estratégico do Município de São Paulo</strong>, de 31 de julho de 2014, é uma lei municipal que orienta o desenvolvimento e o crescimento da cidade até 2029.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Saber mais</a></li>
+					<li><a href="generic.html" class="button">Saiba mais</a></li>
 				</ul>
 			</div>
 		</div>
@@ -88,7 +88,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Veja mais</a></li>
 		</ul>
 	</div>
 </section>

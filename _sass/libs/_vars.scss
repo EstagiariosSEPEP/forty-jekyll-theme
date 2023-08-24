@@ -30,18 +30,18 @@
 
 // Palette.
 	$palette: (
-		bg:					#09385f,/*background-color header*/
-		bg-alt:				#09385f,/*background-color main*/
-		fg:					#ffffff, /*Cor das letras secundarias*/
-		fg-bold:			#ffffff, /*Cor das h1 e h2*/
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#5ec478,/*hover*/
-		accent1:			#6fc3dfbd,
-		accent2:			#16156e83,
-		accent3:			#ec8d817a,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		bg:					#ffffff,/*background-color header*/
+		bg-alt:				#ffffff,/*background-color main*/
+		fg:					#000000, /*Cor das letras secundarias*/
+		fg-bold:			#fc006d, /*Cor das h1 e h2*/
+		fg-light:			rgb(3, 3, 3),//cor das letras do footer
+		border:				rgb(0, 0, 0),//linha de separação das section
+		border-bg:			rgba(255, 0, 162, 0.281),//campo de txt
+		highlight:			#000000,/*hover*/
+		accent1:			#0084ff7d,
+		accent2:			#f4fc0b77,
+		accent3:			#17ff267a,
+		accent4:			#0e0d0d,
+		accent5:			#0b0b0b,
+		accent6:			#010101
 	);
