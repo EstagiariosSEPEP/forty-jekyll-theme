@@ -40,7 +40,7 @@ nav-menu: true
 				</header>
 				<p>O <strong style="color:red;">Plano Diretor Estratégico do Município de São Paulo</strong>, de 31 de julho de 2014, é uma lei municipal que orienta o desenvolvimento e o crescimento da cidade até 2029.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Saber mais</a></li>
+					<li><a href="generic.html" class="button">Saiba mais</a></li>
 				</ul>
 			</div>
 		</div>
@@ -57,7 +57,7 @@ nav-menu: true
 				<p>São Paulo deu um importante passo em direção à construção de uma cidade mais humana e mais moderna, sinalizando o sólido compromisso da Prefeitura com o esforço de revisão do conjunto de leis que regulamentam a política urbana do município.
 				Mais conhecida como Lei de Zoneamento, a Lei de Parcelamento, Uso e Ocupação do Solo (LPUOS), sancionada em 23 de março de 2016, normatiza a ação pública e privada sobre as formas de uso do solo da cidade e traz avanços significativos para que todo o processo de desenvolvimento urbano ocorra de acordo com as estratégias do <a href="generic.html"><strong style="color:red;">Plano Diretor Estratégico (PDE) – Lei nº 16.050/14.</strong></a></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Saiba mais</a></li>
 				</ul>
 			</div>
 		</div>
@@ -73,7 +73,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Saiba mais</a></li>
 				</ul>
 			</div>
 		</div>
@@ -88,7 +88,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Veja mais</a></li>
 		</ul>
 	</div>
 </section>
