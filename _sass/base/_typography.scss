@@ -70,7 +70,8 @@
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 
 		a {
-			color: inherit;
+			color: inherit; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000000;
+			text-shadow: 0.1em 0.1em #08b6e2;
 			border-bottom: 0;
 		}
 	}
