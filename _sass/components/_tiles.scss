@@ -28,6 +28,8 @@
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
+			color: #4d04c2; text-shadow: 0.2em 0.2em 0.3em #8fffff
+			font-size 27px;
 			cursor: default;
 			height: 40vh;
 			max-height: 40em;
@@ -35,7 +37,7 @@
 			overflow: hidden;
 			position: relative;
 			width: 40%;
-
+			
 			.image {
 				display: none;
 			}

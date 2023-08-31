@@ -17,7 +17,8 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		color: white;
+		color: white; -webkit-text-stroke-width: 0.1px; -webkit-text-stroke-color: #430280;
+		text-shadow: 0.1em 0.1em #02108a;
 		height: 60vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
@@ -43,6 +44,7 @@
 
 		h1 {
 			font-size: 3.25em;
+			color: #fc006d; -webkit-text-stroke-width: 1.5px; -webkit-text-stroke-color: #430280;
 		}
 
 		> .inner {
