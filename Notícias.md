@@ -13,11 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Urbanismo social transforma periferias de grandes cidades</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content" style="text-transforme">Urbanismo social transforma periferias de grandes cidades</h2>
 <h3 style="color:black;">No urbanismo social, além do poder público, a busca de soluções também passa pela comunidade e por organizações da sociedade.</h3>
 <h4 style="color: rgba(0,0,0,0.15);">03/04/2023 20h58  Atualizado há 4 meses pelo <a href="https://g1.globo.com/jornal-nacional/noticia/2023/04/03/urbanismo-social-transforma-periferias-de-grandes-cidades.ghtml">G1</a></h4>
 <p>Melhorar a qualidade de vida de moradores das periferias é um desafio em todo o Brasil. E o caminho para solução, em algumas cidades, tem sido o chamado urbanismo social.</p>
@@ -54,7 +53,7 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>“Nós não tínhamos acesso a trafegar nas ruas por causa da violência, que era demais. Hoje nós já temos esse fácil acesso. Com a abertura do CEU, abriram vários caminhos para nós”, conta a instrutora de cursos de qualificação Selma Ferreira.</h3>
-		<iframe width="560" height="315" src="https://globoplay.globo.com/v/11504509/?s=0s" title="Globoplay Urbanismo Social" frameborder="0" ></iframe>
+		<iframe width="560" height="315" src="https://globoplay.globo.com/961bfa7c-de63-40e0-b159-fc8e5e0013a9" title="Globoplay Urbanismo Social" frameborder="1" ></iframe>
 	</div>
 </div>
 
