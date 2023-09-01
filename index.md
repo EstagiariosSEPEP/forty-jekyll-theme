@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Secretaria de Urbanismo Social'
+landing-title: 'Urbanismo Social'
 description: null
 image: ../assets/img_footer/GOVERNO_CENTRALIZADO_FUNDO_ESCURO.png
 author: null
