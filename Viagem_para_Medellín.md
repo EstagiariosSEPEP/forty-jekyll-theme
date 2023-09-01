@@ -38,7 +38,7 @@ nav-menu: true
 				</header>
 				<p>Gestores das Prefeituras do Recife e de Medelín (Colômbia) se reuniram, nesta quarta-feira (27), para uma reunião de cooperação técnica entre as duas cidades, na área de políticas sobre drogas. O encontro aconteceu no Hotel Transamérica, no bairro de Boa Viagem, como parte da programação da Semana de Políticas Públicas sobre Drogas do Recife, que tem atividades até a próxima sexta-feira (29). A reunião serviu como preparativo para a assinatura, na sexta, de um memorando de entendimento e cooperação técnica entre as cidades do Recife e de Medellín, que trará alinhamentos entre as metodologias e prevê, também, trocas de tecnologias sociais e experiências...</p>
 				<ul class="actions">
-					<li><a href="etiam.html" class="button">Saiba mais</a></li>
+					<li><a href="etiam.md" class="button">Saiba mais</a></li>
 				</ul>
 			</div>
 		</div>
